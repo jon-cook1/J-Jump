@@ -24,11 +24,7 @@
 `java -jar JonJump.jar`
 4. Or, if your system is configured to run `.jar` files with a double-click, simply double-click the `JonJump.jar` file to start the game.
 
-### Installation
-
-- Download `JonJump.jar` and simply run to play
-
-  ### Controls
+### Controls
 
 - **Move Forward**: Use the arrow keys to move around.
 - **Jump**: Press the up arrow to jump over obstacles and on top of enemies.
