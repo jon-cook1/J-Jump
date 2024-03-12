@@ -35,3 +35,4 @@
 ## Contributing
 
 Contributions to "Jon Jump" are welcome. Whether it's adding new levels, enhancing the game's physics, or improving the adaptive tile refresh mechanism, feel free to fork the repository and submit your pull requests!
+Note: A previous version of this codebase had a feature where users could create levels from CSV files. This has since been lost, but will be recreated in the next coming months- stay tuned!
